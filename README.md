@@ -2,9 +2,6 @@
 Atualmente estou cursando o 3° Semestre em Análise e Desenvolvimento de Sistemas na Universidade Positivo.
 Ja fiz 5 (2,5 Anos) semestres de Ciencia da Computação.
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verfuh&show_icons=true&theme=midnight-purple&count_private=true&hide=prs&hide_title=true&border_radius=10&width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verfuh&layout=compact&show_icons=true&theme=midnight-purple&border_radius=10&width=400)
-
 ##
 Linguagens | FrameWorks:
 <div style="display: inline_block"><br>
