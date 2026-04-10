@@ -7,8 +7,11 @@ Linguagens | FrameWorks:
 <div style="display: inline_block"><br>
   <!-- Java -->
   <img align="center" alt="VonRyn-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <!-- Node -->
   <img align="center" alt="VonRyn-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
+  <!-- MySQL -->
   <img align="center" alt="VonRyn-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> 
+  <!-- Kotlin -->
   <img align="center" alt="VonRyn-Kotlin" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
   
